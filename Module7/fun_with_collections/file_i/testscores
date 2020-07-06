@@ -1,0 +1,2 @@
+mytuple = ["Jess", 23, "Iowa"]
+print(mytuple)
